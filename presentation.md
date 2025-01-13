@@ -4,21 +4,27 @@
 
 # Table of contents
 
-1. Intruduction
-2. Quality of Knowledge Graph
+1. Goal
 
-    2.1. Quality Metrics for Knowledge Graph
+2. What is the OpenAIRE Graph?
 
-    2.2. Approaches and Tools for Evaluating Quality of Knowledge Graph
-3. A Recommended Framework for Quality Evaluation of Knowledge Graph
-4. Related Work
-5. Summary and future directions
+3. Dataset overview
+
+4. Data structure
+
+5. Implementation steps
+
+6. Visualization of Knowledge Graph
+
+7. Usage examples
+
+8. Sources
 
 ---
 
 # Goal
 
-To make a knowledge graph base on OpenAire dataset to find information about the most important papers
+To develop a knowledge graph based on the OpenAIRE dataset to extract information about the most important research papers.
 
 
 ---
@@ -31,45 +37,83 @@ The OpenAIRE Graph is a free and open resource that brings together and interlin
 
 ---
 
-# Dataset
+# Dataset overview
 
-Dataset I chose contains metadata records of the OpenAIRE Graph for the research communities and initiatives
+The dataset selected contains metadata records of the OpenAIRE Graph for the research community "Technological University Network (TU-NET)." 
 
-Research community is Technological University Network (TU-NET). TU-NET is a network for the Irish Technological Universities to share expertise, information and resources
+TU-NET is a network for the Irish Technological Universities to share expertise, information and resources
 
 ---
 
-# Dataset
+# Data structure
 
-The data is represented in many archive files
-
-One line of the file look like below 
+The dataset is stored in multiple archive files, where each line represents a metadata record. Below is an example of a single line from the dataset:
 
 ![](dataExample.png)
 
 ---
 
-# Steps
+# Implementation steps
 
-1. Go through every line in every file adding it to a variable
-2. Convering the data into csv files, selecting appropriate fields. Each csv file will represent a node in the graph
-3. Cleaning the data
-4. Using neo4j library connect to neo4j aura (console)
-5. Create relations between the data using Cypher
-6. Upload the data into neo4j 
+1. Read each line from all archive files and store it in a variable.
+
+2. Convert the data into CSV format by selecting relevant fields. Each CSV file represents a node in the knowledge graph.
+
+3. Preprocess and clean the data to ensure consistency and accuracy.
+
+4. Connect to Neo4j Aura (console) using the Neo4j library.
+
+5. Use Cypher queries to establish relationships between the nodes.
+
+6. Upload the processed data into the Neo4j database.
 
 ---
 
 # Visualization of Knowledge Graph
 
-![](visualisation.png)
+![](kg.png){ width=350px }
 
 ---
 
-# Usage
+# Usage examples
 
-Top 5 records the most citated records on English
+The following Cypher query retrieves the most cited records in English:
 
-![](top_citations.png)
+
+```sql
+MATCH (r:Record)-[:HAS_LANGUAGE]->(l:Language)
+WHERE r.citationCount IS NOT NULL AND l.language = 'English'
+WITH r
+ORDER BY r.citationCount DESC
+LIMIT 5
+
+MATCH p=(r)-[rel]-(m)
+RETURN p
+```
+
 
 ---
+
+# Usage examples
+
+![](top6_citations.png){ width=350px }
+
+---
+
+# Usage examples
+
+All records associated with the keyword architecture
+
+![](kewords_visual.png){ width=300px }
+
+---
+
+# Sources
+
+1. OpenAire Graph - https://graph.openaire.eu
+
+2. Neo4j documentation -  https://neo4j.com/docs/getting-started/languages-guides/neo4j-python/
+
+3. Dataset source - https://zenodo.org/records/13135167 
+
+

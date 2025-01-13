@@ -1,11 +1,6 @@
 id,publisher
-dedup_wf_002::09e1111bd38467e7a4737eefece389d3,
 dedup_wf_002::3b1d7daa1676df1f52431597574f53d8,The Waterford News and Star
 dedup_wf_002::63f990d0b112ccb05deb68cabf66a047,Elsevier BV
-dedup_wf_002::bb0398ec8d9d644a0492c738ceefb6e8,
-dedup_wf_002::bcd5702e43a3545d63f2f7e9aa2664f6,
-dedup_wf_002::d828ff3466d1eaa1577bde4f94d8e1d1,
-dedup_wf_002::eaaf79d4ccc0711cff7b454dea3b8f68,
 doi_________::5944a73ae818bbbed0529ed9fbf2ddf8,Informa UK Limited
 doi_________::725809086ff453760e9570c31c0b85c7,Springer International Publishing
 doi_________::84ef24bf08f3349438dfe9b99fd09093,Springer Science and Business Media LLC
@@ -141,8 +136,6 @@ od______1248::f5b932e7b39ab4cde3dcad9f83438bf8,Technological University Dublin
 od______9687::373e1c539d2a481395ce6b7b5204c735,Munster Technological University
 od______9687::8d64b976d157166df1913ef4e95a243b,Munster Technological University
 od______9687::cbab6ab3505bf532e8d3c63af1beb7d3,Munster Technological University
-od_______934::58d09545f647bc22b1abd16d5f515f5d,
-od_______934::7706053dcb38d044576a7e105e0a9de5,
 pmid________::61d639b91dbd0a6fe9657cb2f031abb2,MDPI AG
 od______1248::00da83a36c76d66ee7449d7ee213a671,Technological University Dublin
 od______1248::1b3f5ac53024ca80cebef0fb561de3e7,Technological University Dublin
@@ -214,7 +207,6 @@ od______1248::fe742d5bad134cdc73c64052326e1274,Technological University Dublin
 od______9687::4db6232185c8b01013234d60fb17ae32,Taylor & Francis
 od______9687::dc8de5fc99b4f091dc23e2588e043800,Munster Technological University
 od______9692::17c01b255544a5e77c65eebec2303e7a,PATT2016
-od______9692::43dfd3486af19c27b29a9ee3a477ab12,
 od______9692::55cd86e03c83feef130037609e68c935,Athlone Institute of Technology
 od______9692::62f98aaca3b64aca5bcd57e9e5184d30,IEEE
 od______1248::114d8946b928b4d767f796cca8a259b7,Technological University Dublin
@@ -528,7 +520,6 @@ od______1248::e6a09cbe6e8da5cad601f15bc4fb9cfd,Technological University Dublin
 od______9687::344f086f3892030ee219049f71d3ec5a,Munster Technological University
 od______9692::33a363d584cc4d6f4454153964b0fc09,Technological University of the Shannon Midlands Midwest
 od______9692::6badcaff48710329e8483bdf69d9ab3e,IEEE
-dedup_wf_002::247798e730e27b4d4ac1f8fbd654f1c9,n/a
 doi_dedup___::36abbc8e72ede94f6340d8f1699a23ff,Technological University Dublin
 od______1248::17ef89c0cc4b4b2ce9aadfb9654490c2,Technological University Dublin
 od______1248::1c3cf4a5f263ee607a029bfd995f8f83,Technological University Dublin
@@ -550,12 +541,9 @@ od______9687::a885410d6174ab9c5393d375cfe37148,Hindawi
 od______9692::37eb57db935ceafda2381349182d50f5,IEEE
 od______9692::cd0f59c5d857249799720154524f554c,TERG
 dedup_wf_002::0460724006cd4fc7309376033e81dc49,Technological University Dublin
-dedup_wf_002::693b0b0ef8a7b0b9bfceda5730c9c9c0,
 dedup_wf_002::9ee07df77441bbff8dcd0d7d541ec7dd,Technological University Dublin
-dedup_wf_002::b267d62524a61a574e666ac780d5a0e1,
 dedup_wf_002::d5090a2e9e835dd838bf48a2b2d13410,Human Kinetics
 dedup_wf_002::d6453178b0e4b09a9fb5a7fd5c989409,"Socity of College, National and University Libraries"
-dedup_wf_002::e5889ab5edffeca49d326f615c99dd82,
 doi_________::024ffbfa3c2ce2efa64fb5b5c80342dc,Elsevier BV
 doi_________::11c2fbc4cd711846b41e4599f719369a,Springer International Publishing
 doi_________::321795993e2e323dfacefb15ec236ec7,IUPUI University Library
@@ -703,10 +691,7 @@ od______9687::c0ba3f6e8374806d0e652ea179b19261,Munster Technological University
 od______9687::f909caef1aa774355a7a029d621c916e,Munster Technological University
 od______9687::fc6dd9a240421c0aad29f5e3a8909dd8,Munster Technological University
 od______9692::0025840a1b14e801b8c42b0345c5d3d7,The Institute of Chemistry of Ireland
-od_______223::171b57bb26ec689c963835743d5e2bd4,
-od_______934::da35a63aad7dc39e0239029a1b565893,
 dedup_wf_002::5fe4e984a703ea8b3c90fc329bf5e354,Elsevier BV
-dedup_wf_002::91a50f8f60e268faf12dbfb58309bced,
 dedup_wf_002::c3bbc3229591a65c4b420534b435f149,Technological University Dublin
 dedup_wf_002::e228b819c92ae9d32ab958d9f32fa94b,Technological University Dublin
 dedup_wf_002::fda8ae3addf081832f5f2b5edc0f26a7,Technological University Dublin
@@ -899,7 +884,6 @@ doi_________::cdc2d9e4c1935e32cbbbeb0a47d8d723,Cambridge Crystallographic Data C
 doi_________::e4ff89ca19015f48eb46c9f2aef5ad35,Harvard Dataverse
 doi_________::f7539dbadd3a5b019a4028b83bfff399,H1 Connect
 doi_dedup___::b044cb92e8bf415a235173db28c61533,figshare
-dedup_wf_002::e9671a5fef4bd7dd8a9789ab8ccfdbee,
 doi_________::1a13d0a43a9a777f3aefba3b50d2c6ee,H1 Connect
 doi_________::51641c294a338da43811eff191e38b6e,Harvard Dataverse
 doi_________::6bda81c4dbca1b5bbe7e9f592648bb1c,Harvard Dataverse
@@ -1032,13 +1016,9 @@ doi_________::f8e7c42eb323b874aff1a052b1e802a4,Harvard Dataverse
 doi_dedup___::c2d4a6a46f9a79a87331e78d434fe89e,Zenodo
 dedup_wf_002::18a5f6adfec2441973845be24fd17352,IEEE
 dedup_wf_002::1da53150db33664c8b9cce9b9fb6fd17,"KTH, Lärande i Stem"
-dedup_wf_002::2321d07ffcfdb911c52437cd89f22328,
 dedup_wf_002::5fc4cd39052050898e835a35e4bcb3f7,Technological University Dublin
-dedup_wf_002::65fbc5c869ce4d33f714b8b64907e950,
 dedup_wf_002::6c3f27204dbcd0525f713b6531ff23e5,Teagasc (Agriculture and Food Development Authority)
-dedup_wf_002::7641e97480095ccc4ab8a822b68b28fa,
 dedup_wf_002::dc6ebe07a6e0db47cc37fea702b5e0c0,Technological University Dublin
-dedup_wf_002::e6ce441b2a9b6f49393f59bd67a4dba2,
 doi_________::00cee641ad6054868698b39b5176f9e3,Elsevier BV
 doi_________::025ab8cd290722aa201aae8f20fdd83e,IEEE
 doi_________::02ad60eb148cc7039b1be4ebee71b7b5,Cambridge University Press (CUP)
@@ -1194,19 +1174,12 @@ od______9687::37faa2428013729cf2ab5db773fd46ec,Munster Technological University
 od______9687::4ef81c7c63bc25ad830651247e851164,Munster Technological University
 od______9687::b31a84a5a933e673f5dfdb1c16832551,Munster Technological University
 od______9687::e1f622ccf50f06e5275da1dab1fd97f2,Munster Technological University
-od______9692::1e1c777532f43f7c79dfd685c408a196,
 od______9692::798e95ed37e27f37f715a4e3899d4f8f,HAMK & other RUN-EU Plus Partners
 od______9692::893a298b51311827fba0d98588222da1,Lawtext Publishing
-od______9692::8dc0f43598b4608e328ca7c40571b463,
-od_______934::1681da6001465d57fd493eee3df0da21,
 dedup_wf_002::16c7e0e85fa16ec87ecffa57caf94d0c,SpringerLink
-dedup_wf_002::205fd2bd48bdbb84eec459b310e12949,
-dedup_wf_002::314f7d4295b0f579fbbe50aad470d1c5,
 dedup_wf_002::50ab91a7d57f47cff82ea10a98548478,Technological University Dublin
-dedup_wf_002::b9d97084cf6eb30a3038e468f5bcf968,
 dedup_wf_002::cf75949016ab3df4becd2b1872c33333,Emerald
 dedup_wf_002::d3a265d39a7e25f9f4518d9046e9a514,Technological University Dublin
-dedup_wf_002::f2809723f9c3c7610a3597e599014dfc,
 doi_________::2b3da975cf65c1024dad80e6a451b7e6,Academic Conferences International Ltd
 doi_________::2efbdefd9051ada0cd84f593798971f9,Elsevier BV
 doi_________::537303371a2d625790454ecf5570705b,Elsevier BV
@@ -1361,17 +1334,9 @@ od______1248::dee36d4f7b9f91cc6e61c235e54bda71,Technological University Dublin
 od______9687::57e101cf3fc43a887ff5f12911e14d44,Munster Technological University
 od______9687::c2777d15567101581a656affbc6f7071,Munster Technological University
 od______9687::da684991af5f63270d1d8610fdcaeeb7,Munster Technological University
-od______9692::c4838703dfd49c71870c53dc01851863,
 pmid________::33c88a438b0831a2cc96de4ac6910c29,MDPI AG
-arXiv_dedup_::a038ec90952828b5adf3e4b350d25b96,
-dedup_wf_002::566f3407fadcedf8f224d0abd548c301,
 dedup_wf_002::5a115ef379c92701eb81a74a230d3222,Technological University Dublin
-dedup_wf_002::6c23a81d4ee30334f074adfc16c8376f,
-dedup_wf_002::8439aa55da43712f1d15f1dd67dc0920,
-dedup_wf_002::a44448b472cedf000a3d6dce76553dae,
-dedup_wf_002::b34cfbadf67e169cac6de16c986b7db5,
 dedup_wf_002::d2fc593be94792f66aa37d8a4e00ee5c,IOS Press
-dedup_wf_002::d4f8f09a3bb43008a5647e56290f342b,
 doi_________::03f291125facde7ea17cad1a15731576,IEEE
 doi_________::181fbd9b3f6ef41c83e40b9257d5bf8a,Informa UK Limited
 doi_________::4f66f5c6a978daaa4a15fed13face971,Springer Nature Switzerland
@@ -1534,13 +1499,7 @@ od______9692::84f11afbd8ef477ab9a6483c6e3d573f,MDPI AG
 od______9692::be6340a14f9e7dc9aa8588dc41990a06,Technological University of the Shannon Midlands Midwest
 od______9692::ec7f84b9dd5b5d52b2bc65ce3188f600,"Technological University of the Shannon Midlands Midwest/Széchenyi István University (SZE), Hungary"
 od_______883::dc961a2b27a25fef6786bc424bef00a7,IEEE
-od_______934::7a19178daf2d1951e034eeee3af5dab3,
-dedup_wf_002::0ccecaca51e20649f962356d556e55b3,
-dedup_wf_002::3cea8aab4f0bf61f5941b60d5d3c4a6b,
-dedup_wf_002::569f054f1358e57c4384bcb1efc93f78,
-dedup_wf_002::621aaa9bb1cc200ef197611f1f91c5d9,
 dedup_wf_002::84b680b1798826d621f7a57694d162cd,European Centre for Modern Languages
-dedup_wf_002::9764d6b71a174bcadf7e5b3a6b6acb8d,
 dedup_wf_002::b76711ef33bc7bbd5447285e94c5da9b,IEEE Computer Society Press
 dedup_wf_002::f04b1a1292c83d6430e2ddadfeb95ada,Technological University Dublin
 doi_________::20ade6463dbc95cee6670c9e76e403b4,Oxford University Press (OUP)
@@ -1691,15 +1650,11 @@ od______2197::24224a1aec52b6ffaf1fd58af539bc64,Elsevier BV
 od______2197::6211e04188086b1ac3d4d49bb1a9467f,Marine Institute
 od______9687::a4f47c4fc426cbfbab0e5f1ad1a460ab,Munster Technological University
 od______9687::e84dff1caf53be4ad02c45e8f7a945e6,SWORD - South West Open Research Deposit
-od______9692::f79b66b57b64ca9848710e5eef41e774,
 od_______322::b59ddac5da4f5cb143a6ee8d7759c8ee,South African Society for Engineering Education (SASEE)
 dedup_wf_002::3715d315e71be45ee6d04791fe2edb1d,Directorate of Academic Affairs at ARROW@DIT
 dedup_wf_002::5abca3253d0bdb6095a80213a5812096,Technological University Dublin
-dedup_wf_002::6646bef27637dc43ac972a9b6de968bb,
 dedup_wf_002::a0d82e8bc195fc664da0e3d34d801795,Technological University Dublin
 dedup_wf_002::b54163e9cde529f60a3d83d4c90c9c77,Wiley-Blackwell
-dedup_wf_002::b64cb7e438c1e9d34b7f7e697b67d662,
-dedup_wf_002::d309a6cbb92b3c5b05dd58366d3d0413,
 doi_________::02de7415c863a1e979a43bd65c982609,Oxford University Press (OUP)
 doi_________::151a19e22b5a8f5e64411a5281cf551f,Oxford University Press (OUP)
 doi_________::3014496d9c87ac46a9072f7d1cd7fe81,Springer International Publishing
@@ -1830,13 +1785,7 @@ od______9687::e56ac3aa553bace7b422054a99711b9e,Munster Technological University
 od______9687::f35ba7396f0fe33e17fb4ea3b7ee4bf9,Munster Technological University
 od______9692::68b2dc61a745187a12c8bc75202d09a0,Technological University of the Shannon: Midlands Midwest
 od______9692::b70c6d78d3ec5fb5bd10ea60b9b23e8d,Technological University of the Shannon Midlands Midwest
-od_______934::1f9bb0b1741ddec842240bc64b548c1d,
-dedup_wf_002::4168b67c406edf0b7765e5db3c41432f,
 dedup_wf_002::52d3bf7820ba169b60697f05e79f038e,Liffey Press
-dedup_wf_002::5e92188da78067ba5337226150cde0b5,
-dedup_wf_002::9b59979871b7030fc684aa59bdee14fb,
-dedup_wf_002::a37f8bc0c3310b67050fd53dd25912f1,
-dedup_wf_002::df78239610806b9b4350a69145beedfa,
 doi_________::2307d62903b58dc9c009c15f0accdd02,Trans Tech Publications Ltd
 doi_________::26267cbee4bc89088a4f21aa96bc7d97,Wageningen Academic Publishers
 doi_________::2ef9b6c8e9331148aa25b51d6c880962,MDPI AG
@@ -1992,19 +1941,11 @@ od______9687::73502234f33bb00233ac580508e7ace2,Munster Technological University
 od______9687::987fc6f5939dd67418a465f98427bf5b,Munster Technological University
 od______9692::0910f3bdb8ccc71c2f644215c0af9d23,Skola och Samhälle
 od______9692::51a61651814244c65a579a3ef51e0c07,Technological University of the Shannon: Midlands Midwest
-od_______223::20b99ad2c71eff38eec08bb6c1b1f890,
 pmid________::481f3ee0d7ef71592e0c56b0237adf96,Frontiers Media S.A.
-dedup_wf_002::04ee32f331d401f520f4c3b22a40e41c,
-dedup_wf_002::5120e0597d4b83fdfea9b7c78257d0ed,
-dedup_wf_002::6f91b78038b3427da9df442d4dcd665c,
-dedup_wf_002::7c8a44ac4685af471562753b63e05960,
 dedup_wf_002::7dc3ff37d8610b0dea7dc8d9988eb219,Tipperary Historical Society
 dedup_wf_002::80f879996d23e51ace1be91b187873e1,Technological University Dublin
 dedup_wf_002::956bffb70eb1f6d2484c461ebf741f6e,TU Dublin
 dedup_wf_002::a1606b955e6ddf26dd3b0dabee706da0,Emerald Publishing
-dedup_wf_002::a31df697c4474c50f44e79085acc985f,
-dedup_wf_002::b2fbe4548499afb3356dc2c61ef8d378,
-dedup_wf_002::fbe8d27a721197adcf763f3dd08ff23f,
 doi_________::27131dc5c31979a9693236acaa26264e,Technological University Dublin
 doi_________::300bd2055db5e42fdcb748f1dc02c944,ASME International
 doi_________::44fa9d078dda9eb28e0432135c7137f3,IEEE
@@ -2157,16 +2098,9 @@ od______9687::ed5ff7aa271c848ae64d2445da52b367,Munster Technological University
 od______9692::220771d64fe9d445303e05795de87dfd,Technological University of the Shannon: Midlands Midwest
 od______9692::765c6901ecdb2baf890273089e76f86d,Athlone Institute of Technology
 od______9692::e1fd2a352331c524062ce885782b0cf0,"Technological University of the Shannon Midlands Midwest/Polytechnic of Leiria (IPL), Portugal"
-od_______934::09e4aa79da16364610e304c6c05a7329,
-od_______934::19455c11ac34b388c646bc02a21cff09,
-dedup_wf_002::0bd25c2f3003d5e759685f5b82eaab74,
-dedup_wf_002::38efba8ca629a674d346e1a1a2dfc6bb,
-dedup_wf_002::874172babe402174b7a5f93110013f4e,
 dedup_wf_002::89a774745dd27f5fb55b88ea850446b2,HP-OVUA
 dedup_wf_002::915696badf1cc6e68e56a03ed7f7b327,Technological University Dublin
 dedup_wf_002::9445b34fd2aff82288de94fbca334f70,"School of Computer Science, University of Waterloo, CANADA"
-dedup_wf_002::9b667dcfe95a705aa6f67e60c10f70f9,
-dedup_wf_002::a9d1230d8ba52311777742a3f3dd9384,
 dedup_wf_002::c9ba3afa4ceb13864ebc214d8632509d,Technological University Dublin
 dedup_wf_002::cfcf99d54d536fb93d6ee832938e7985,Associazione per l'Utilizzo delle Conoscenze Neuroscientifiche a fini Sociali
 dedup_wf_002::d3024b97a0266172a525634906b1d7f9,Technological University Dublin
@@ -2345,13 +2279,8 @@ od______9687::545ce87bf2a130634b7694f6490b8619,Munster Technological University
 od______9687::6f76c0b260d83446e172c685d770fbc1,Munster Technological University
 od______9687::8ca65fd34d05a05f3c3c01a07626254a,Munster Technological University
 od______9692::d7f1104910377b35b079179a0d071cd2,Technological University of the Shannon: Midlands Midwest
-od_______119::562fc187780119af9a1a38bb4cfb26a8,
-dedup_wf_002::38a3236fc04cc721b6aae45a7595e4ab,
-dedup_wf_002::416686459a0435b702dfe0adf118d4f3,
 dedup_wf_002::5281662e6f4ce15ad3cbdbd63f4427cc,Technological University Dublin
 dedup_wf_002::66b7c5c4b85ef973ecdfecba3254f7a2,Technological University Dublin
-dedup_wf_002::83c7ae17cb83e10a51d9d8cac7d21bfc,n/a
-dedup_wf_002::e480a8a704151e52a94e8bec151a38ee,
 doi_________::0b59c49139dede5ccf848a56b3be2d38,Berghahn Books
 doi_________::2856cf9826b0a327b074ac48d15612ba,HARD Publishing Company
 doi_________::2cf801936dc151d16e87260e76333a92,IGI Global
@@ -2531,14 +2460,8 @@ od______9687::3d906d03d164267154a4b5c821751e43,Munster Technological University
 od______9687::3fa20252fda256c425b0e8dbc3b6dbbf,Munster Technological University
 od______9687::7f2c422ba8662ff5a8d6e8e05f8df607,Munster Technological University
 od______9687::c5a88ddad8a84c8a9fafc7f20408e84a,Munster Technological University
-od______9692::6af905b8de6be0abebb3d10f660462a7,
-od_______934::f9e8cfd3d8916ebf6321f5142f5c083d,
-dedup_wf_002::20ce749515be09d6b15af7e401eb2269,
 dedup_wf_002::34052a2767485c5d48f688573acb8fd0,Boherlahan-Dualla Historical Journal Society
-dedup_wf_002::38b6fb48d21a317106ffce4902f2ab48,
 dedup_wf_002::3a38d575f9db5edee52a9bb3b7cc3eaa,European Commission
-dedup_wf_002::42bcd33a3de3762f02e16206631dfdda,
-dedup_wf_002::ce9b7bcbc70358a57839343d840765f9,None
 dedup_wf_002::f51395e992db9d7385571c6acedb1f1b,Mellon Press
 doi_________::0d0c918e9fd02681546cb47751f1cdba,Informa UK Limited
 doi_________::2a631023d779fcc12e48818f2a8ebb1c,SciTePress - Science and and Technology Publications
@@ -2670,17 +2593,8 @@ od______1248::b6c935aab30033b2956379655c0adeca,Technological University Dublin
 od______1248::b7011d5f970c160df3ec948ead3b000c,Technological University Dublin
 od______1248::b901cc87f365c2dea0221e111511cd96,Technological University Dublin
 od______1248::cd6893a0e7dca63235cb9b1e3ddb83a8,Technological University Dublin
-od______9692::39db3d15b18033e11f55ca1c30d9bbd5,
-od_______934::d727137d2750a62dc970206c808a06a4,
 pmid_dedup__::98c161bebbcc5d90defd806fc19ec43a,Technological University Dublin
 dedup_wf_002::01a903a9f19eb107311ddf00174778fb,Technological University Dublin
-dedup_wf_002::37663afb3c328d61a6550703494ec0c1,
-dedup_wf_002::402baf2052f5ae1d4e1a36609de5af53,
-dedup_wf_002::5c9b6f529d4e5799dd4998541eba23b2,
-dedup_wf_002::7245b49bf22056dce22e73a552d0d491,
-dedup_wf_002::b62f548595c290bfb895cc3513e59baa,
-dedup_wf_002::b99a02dd17f45cc50b6922ec00b944b4,
-dedup_wf_002::e06f4b33f5062fcf8752a799a4fdab3a,
 doi_________::094661f6a47027bef334120226fd98b4,Springer Nature Singapore
 doi_________::20e815d5b86b4bd46ca1d04132887f69,Technological University Dublin
 doi_________::2f70498bd7acbbe6dec8c1215356d81e,Elsevier BV
@@ -2822,9 +2736,6 @@ od______9687::8f5a2a03813a338b778c1e684cd24da4,Munster Technological University
 od______9687::dae6bb6aa30b7d5b215e1fb4d7f7e0db,Munster Technological University
 od______9692::68f7c98e1c08fe88f74d940f23c83046,Technological University of the Shannon: Midlands Midwest
 od______9692::8745f0a637f648a177a085c8fe0adf95,Technological University of the Shannon Midlands Midwest
-dedup_wf_002::0340282195aa4bd37cc0cac64d83744e,
-dedup_wf_002::0f2b32a0151a194ba8ff756041fb70fb,
-dedup_wf_002::5399164a17a4643450d7c399da2e952e,
 dedup_wf_002::9a7a0cb54eee426ca425914e0d084a38,"School of Computer Science, University of Waterloo, CANADA"
 dedup_wf_002::d84fc02e926c8a51643f6bb5fb7b8182,Technological University Dublin
 doajarticles::3d7ee96eba7ed0366476d878f8cb58d1,Oxford Brookes University
@@ -2996,17 +2907,10 @@ od______9687::b1574712b15b8dc348376d5756c8d4fb,Munster Technological University
 od______9687::ba9446516dda56e4be3413213ed9ff0e,Munster Technological University
 od______9687::c9d5c770b78401d763c1692b4e1d4d57,Munster Technological University
 od______9692::383b1a1a265206a8c041294a21a86900,Taylor & Francis
-od_______934::20441cccba030960241e1909ad34e046,
-od_______934::adbf470ae53f8d29392b1e5201e6d97b,
-od_______934::b7451329e5600eaf118dc0e2c3593a4f,
-od_______934::f5cab6dcdaf125bcafdcaa596525edfd,
 pmid________::bdf016347413a9faf29ea66a45d9d6bb,Frontiers Media S.A.
 dedup_wf_002::4096f44cc455136f2d244bfea291e83b,Technological University Dublin
-dedup_wf_002::44fd0c448acd1302647b7dccf7834d08,
 dedup_wf_002::645f589a4d148713069ecb1928a3d184,"Uppsala universitet, Institutionen för medicinsk biokemi och mikrobiologi"
 dedup_wf_002::72f75e6e90fb117f584fba2d64a1ab42,EDIN
-dedup_wf_002::99909b1703ac71f22146314f6d38ed38,
-dedup_wf_002::f17777c7b1197cf7ed114cee0c809add,
 dedup_wf_002::f8bfc675cc57a1b5154ca8786b15bdec,Technological University Dublin
 doi_________::1492769c775b0f7c154b32dde835536e,Emerald
 doi_________::385445fb21e69d209ebc92c9af8918a5,IEEE
@@ -3153,13 +3057,8 @@ od______9687::bed0359ee13b919b13f561e8f5d69934,Munster Technological University
 od______9687::c43e7b6eefcb3cb8b4b86fa5f284d619,Munster Technological University
 od______9687::e3125bc2d978b04f8f8dfb1a14304355,Munster Technological University
 od______9692::10262c222f7f1b38ee7ae9263921cbb3,The All Ireland Society for Higher Education
-od______9692::8dc1ceaeb4a42ae29cd7b49a86ee461d,
-od_______119::5d6171e3530392db69f847b867f01656,
-od_______934::980a730c42a5bc3a5bcaef856fc55073,
 dedup_wf_002::2b399c328628a3409fc31cba1dc5443c,Technological University Dublin
 dedup_wf_002::41836bacea0b92d7356e5c119328ebdb,Technological University Dublin
-dedup_wf_002::7802670e72e9478afac6cd686a86f558,
-dedup_wf_002::b133d566d0513dc94e3358d368c15bdd,
 dedup_wf_002::d4eba3f184f245719222faa6ac7945ab,Technological University Dublin
 doi_________::049ce2c61b03de35b94828172d3bdad1,IEEE
 doi_________::05c1f95e333eace27cd36a449aedff85,PubPub
@@ -3341,11 +3240,8 @@ od______1248::f5bd6d2eb2c2d2f4c7c60acc389b1f74,Technological University Dublin
 od______9687::39c5e531c60b1606b842808254c70784,Munster Technological University
 od______9687::d6c3861741bf2956090a41e0a52d3bb6,Munster Technological University
 od______9687::e2d1aa695d5dd9c31d19c9923886d74a,Munster Technological University
-od______9692::d5b414b28674dca67288167aa93e35e1,
 dedup_wf_002::1e108bc0688a684170316e83e06141bb,Technological University Dublin
-dedup_wf_002::c25a7791d0d98416818e944b69301b5b,
 dedup_wf_002::f2862fa8f5daa0bcadbd3faa75b8e687,Technological University Dublin
-dedup_wf_002::f6e68ab86fa414a21c059d8f946b90af,
 doi_________::01287542008271dea00c40e46e352163,arXiv
 doi_________::018a0db90ab0238deb9c90d8d0c5b395,BENTHAM SCIENCE PUBLISHERS
 doi_________::141bc5a6ea6b41c719b53f7f94e239b2,Brill
@@ -3500,13 +3396,7 @@ od______8936::c4216c0b18a7755c7c6980e6c1b9804f,"Západočeská univerzita v Plzn
 od______9687::965ace5cd35e256453b20ad7f6aab723,Munster Technological University
 od______9687::b8c9bbf95ce380c866cc0206ee7aa05e,Munster Technological University
 od______9692::c98c235882cb64d0e852e444cb675a93,Technological University of the Shannon Midlands Midwest
-od_______119::66705e5dd93f5940209b94cb715ccaa8,
-od_______934::0640bcf5cc4ded81ec0bede5c4a95b91,
-dedup_wf_002::0c44353a3f9846a53e02654d1dee8f48,
-dedup_wf_002::278e64c60aaec08596090fbbbee01aab,
 dedup_wf_002::3da02bfd832e3572f4fdd65db3620f4f,"Uppsala universitet, Institutionen för medicinsk biokemi och mikrobiologi"
-dedup_wf_002::4e7f83b61711845c1ce02c0a101d300c,
-dedup_wf_002::d0b03c8f4539c3a29f0221432cacef1e,
 doi_________::130afd177ec925e4c390e8fea5be1698,Center for Open Science
 doi_________::3c539a8e37f86ba3a5dd3d4aa5b0a468,American Association of Physics Teachers (AAPT)
 doi_________::784562b4f09d5751541160624c8d4335,Springer Science and Business Media LLC
@@ -3644,11 +3534,7 @@ od______9687::1e2e1a03a8cecf97e7d1cd691460277f,Munster Technological University
 od______9687::850a7fa1de85d9d87d4a7cedf0396c6d,Munster Technological University
 od______9687::a2d7be1ee12d55ae2e8548c1b7f0e262,Munster Technological University
 od______9687::a4ef1b74afe9f761d3535c5bf5013684,SWORD - South West Open Research Deposit
-od_______223::5fb5f5991d92390e17ab8f916328f18d,
 od_______883::a9b1f851aa2a0ccaf9051896fd862eb3,"Healthcare Informatics Society of Ireland, Cumann Riomheolais Slainte"
-od_______883::d1e12f140793fdecd920c2575aba24e1,
-od_______934::21b029a427664077f446ea4704578ec0,
-od_______934::f9507b81ca1cacd2bdb11ae466470f69,
 od______1248::1dbf300367ff96c674a78bb675415c32,Technological University Dublin
 od______1248::1e0db8bf6755ace5680a1cd8a2bce6ee,Technological University Dublin
 od______1248::1ff8708d5ef6bedf0aa42138bb32c1b5,Technological University Dublin
@@ -4038,11 +3924,7 @@ od______1248::fe0c5aa3bbe5d4f0c3ba2d819ae567b7,Technological University Dublin
 od______9687::8822e8cbd7b7874061f0ac1dfc88eefb,"International Academy of Technology, Education and Development"
 od______9687::cebf2fef3dfe08711354e15dff68b4f2,MDPI AG
 od______9692::1855777eacca9a8e9b234e0f0af75a1e,EERN
-dedup_wf_002::36293fb7b518fe56ad5dab8bc3633238,n/a
-dedup_wf_002::43de25cf9278e4be17d623519026916c,
 dedup_wf_002::5c87a2203d5ef111b856083e2f128748,Waterford Institute of Technology
-dedup_wf_002::7d180f94996a11a1d1e538b9a4e844da,
-dedup_wf_002::b374aa50f67020cf9c422ce15dfffcc3,
 dedup_wf_002::bc185121f26dccb9de4647fcb555f222,Technological University Dublin
 doi_________::07859c0e8250926c3705b7f6874614cb,Walter de Gruyter GmbH
 doi_________::09acd9970ece9329e526e27b16059e32,Elsevier BV
@@ -4199,12 +4081,8 @@ od______9687::c9e2340660d45ac3602ea1cb31e3615b,Munster Technological University
 od______9692::2ea7bc8b9669ad8b50987d41aa0d3082,Lawtext Publishing
 od______9692::6b3b4599827725cb508d16f42c463403,Athlone Institute of Technology
 od______9692::dada5082c199ce9772bc2d100581e384,Technological University of the Shannon: Midlands Midwest
-od_______934::7d84ed5aa38f8069b30a99f649ce3b23,
-od_______934::bdad14c34ec0d58abd7e4ebae97a1fd0,
-dedup_wf_002::177bcc60042a97e67600a9f1f89d88ad,
 dedup_wf_002::5c7ec4a73c2fb1571e59fcd2fcdf8764,Deutscher Bibliotheksverband
 dedup_wf_002::db3d94598bd313ef67bf11bf35bb72cc,Wiley
-dedup_wf_002::e9f0897e8b86e9e84738680ca121600c,
 dedup_wf_002::f53604fcdafa1bb53af488b2a7fcf585,Emerald Publishing
 doi_________::0f01694d5ad3efaea7d8abac2bf1cc12,MDPI AG
 doi_________::25a26c6cc4167315979ed205a72259cc,MDPI AG
@@ -4434,7 +4312,6 @@ doi_dedup___::6177310fade5cfe7991a2acf3628a28e,Zenodo
 doi_dedup___::acabe48aed8ee463c71a281e7aaa2afd,figshare
 doi_dedup___::b1204562ace85beb158ec459b4c77d94,The Royal Society
 od______1248::8787c9bcbbf5e34eb4a4ebace947d006,Technological University Dublin
-dedup_wf_002::3e1e7c1ad1e1182995faf87867c265f7,
 doi_________::004cdde6fe362ae4d2316efca0695ef1,Harvard Dataverse
 doi_________::25abd410984135520028413c9325f0ee,Harvard Dataverse
 doi_________::39f9de1d95de7cae9fce3ccb5dd373c1,Harvard Dataverse
@@ -4476,7 +4353,6 @@ doi_________::b4c8cdc71954598dabdf4f74b9c95384,Cambridge Crystallographic Data C
 doi_________::ced0c26f0d2f9800a080a64ab1199345,Science Data Bank
 doi_________::d01319418fc5a5855d5ae96390505d08,Harvard Dataverse
 doi_dedup___::1b5cdcebbfbc65c574ef656d1d3969b2,figshare
-dedup_wf_002::deee88c1d604a7f04f1e7687ebfcc373,
 doi_________::035d95ec71c7ed04ad1780a99244d128,Cambridge Crystallographic Data Centre
 doi_________::120d681d97dae2802fac721d2620ea3e,Harvard Dataverse
 doi_________::45436bf2dfecaba0c4ed5977848a05d0,Harvard Dataverse
@@ -4490,7 +4366,6 @@ doi_________::d5ead0d1fd684f4f4aaedd7cfe30160d,Harvard Dataverse
 doi_________::ef8fc5b81314387a4093a2e2c0a3328d,Harvard Dataverse
 doi_________::fdcebda7bfa143d3134aaf0bd13fd644,Harvard Dataverse
 doi_dedup___::aaa160db39439b69461238933d0de704,Zenodo
-dedup_wf_002::e36f466dfcae1034cc5da1c1bfd9a099,
 doi_________::042a2e9db94e93ec996f329480e7a536,Harvard Dataverse
 doi_________::332d8a6aa5f15c9d6341613358b8f561,Harvard Dataverse
 doi_________::7982ef275a3bd048aa420fe6c5afaa50,Harvard Dataverse
@@ -4530,12 +4405,8 @@ doi_dedup___::1daf6a5f06fe85525a2c02174bd7b540,Technological University Dublin
 doi_dedup___::306162cedd4bec38d011574054195907,SAGE Journals
 doi_dedup___::94a6003a5a67f552afdef63fd5ce0674,4TU.ResearchData
 doi_dedup___::b06ea21b71be9a4ad94281d7369b4862,Centre de Donnees Strasbourg (CDS)
-dedup_wf_002::2ee2b001c9382ad7386697aab0120ebe,
 dedup_wf_002::3a2c4ff4016f1be81734cb2c5f5519ec,Wiley-Blackwell
-dedup_wf_002::572f6e818fdba95880c9f4ef0881e5ca,
 dedup_wf_002::5f7da06c2936aba8ac291e96be61a8a4,Technological University Dublin
-dedup_wf_002::84a273de5259cb471f5ce0ee3696ee72,
-dedup_wf_002::c140b73d4fc7b6b2b0744b2fc3512ec3,
 dedup_wf_002::c25480e772e2a9f5cf7ddaa9a62d23c9,Technological University Dublin
 dedup_wf_002::da83524148c7980441920bc39cd60eb4,IOS Press
 doi_________::3ff44ea18f743f907eed6cc8f2b016a5,Elsevier BV
@@ -4690,12 +4561,9 @@ od______9687::3ca4ce86cb0ea52c0642a400cf46fb12,Munster Technological University
 od______9687::44bd073d264c9a62c0eed8242313381f,Munster Technological University
 od______9687::62c7d753dbee2e567f70b07d95987228,Munster Technological University
 od______9687::b4232802c138d494fbf2feaa3058cd6f,Munster Technological University
-od_______934::0184ce4f54a6c9590d7f3698938853ba,
 dedup_wf_002::56dc1fc8df6fed923d50697b6f95a273,"School of Computer Science, University of Waterloo, CANADA"
 dedup_wf_002::67ea16a853cf9e795c469e59b81428f1,Technological University Dublin
-dedup_wf_002::8826e87eebecd4725510be2d92cb1ac4,
 dedup_wf_002::be0b47a1a397b04681ea35133d90c1f3,Technological University Dublin
-dedup_wf_002::dfb8c4353b4626270f15518fb97a23d6,
 doi_________::047b0a0ef4da6e6ba15fb19c69532c00,Canadian Center of Science and Education
 doi_________::0fb1dfd61589f78d92a782cb537ff92a,Cold Spring Harbor Laboratory
 doi_________::18f6d1d9e57711e911252232d71ff5f3,Technological University Dublin
@@ -4843,11 +4711,7 @@ od______9687::34160cc122e128f389144c8a976d8212,Munster Technological University
 od______9687::396cd8a08c346a1d47b0679faf59b2a5,Munster Technological University
 od______9687::ecd8b4be293c139786012f07457f465b,Munster Technological University
 dedup_wf_002::33394a8c56ffdb5f70bb5c4b5c305fb4,Technological University Dublin
-dedup_wf_002::76b21519238818bb49083a52be9d9ef1,
-dedup_wf_002::9674002e82bcfd2f4fd110618f66aebe,
 dedup_wf_002::befc3b00cf11e0f8ff788c3b647f70fe,"School of Computer Science, University of Waterloo, CANADA"
-dedup_wf_002::d2455028fd5fb1c678398d0c5653404b,
-dedup_wf_002::e3eec15f134e9d310ce73ac0ead981ca,
 doi_________::0e4c13519ada8a0c7f0a9b6e029f129f,Springer Science and Business Media LLC
 doi_________::13d823d5a277775be0cf5cf7b6e16eec,MDPI AG
 doi_________::1e1d5964038b522f2ebebc56cf17e102,Oxford University Press (OUP)
