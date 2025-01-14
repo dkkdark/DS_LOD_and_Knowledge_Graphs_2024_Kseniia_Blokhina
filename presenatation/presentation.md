@@ -31,7 +31,7 @@ To develop a knowledge graph based on the OpenAIRE dataset to extract informatio
 
 # What is the OpenAIRE Graph?
 
-![](openAire.png)
+![](../images/openAire.png)
 
 The OpenAIRE Graph is a free and open resource that brings together and interlinks hundreds of millions of metadata records from over 100k data sources trusted by researchers.
 
@@ -49,7 +49,7 @@ TU-NET is a network for the Irish Technological Universities to share expertise,
 
 The dataset is stored in multiple archive files, where each line represents a metadata record. Below is an example of a single line from the dataset:
 
-![](dataExample.png)
+![](../images/dataExample.png)
 
 ---
 
@@ -71,7 +71,7 @@ The dataset is stored in multiple archive files, where each line represents a me
 
 # Visualization of Knowledge Graph
 
-![](kg.png){ width=350px }
+![](../images/kg.png){ width=350px }
 
 ---
 
@@ -96,7 +96,7 @@ RETURN p
 
 # Usage examples
 
-![](top6_citations.png){ width=350px }
+![](../images/top6_citations.png){ width=350px }
 
 ---
 
@@ -104,7 +104,7 @@ RETURN p
 
 All records associated with the keyword architecture
 
-![](kewords_visual.png){ width=300px }
+![](../images/kewords_visual.png){ width=300px }
 
 ---
 
