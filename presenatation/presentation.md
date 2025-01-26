@@ -57,15 +57,47 @@ The dataset is stored in multiple archive files, where each line represents a me
 
 1. Read each line from all archive files and store it in a variable.
 
+![](<../images/Screenshot 2025-01-14 at 14.14.41.png>){ width=350px }
+
+---
+
+# Implementation steps
+
 2. Convert the data into CSV format by selecting relevant fields. Each CSV file represents a node in the knowledge graph.
+
+![](<../images/Screenshot 2025-01-14 at 14.18.24.png>){ width=350px }
+
+---
+
+# Implementation steps
 
 3. Preprocess and clean the data to ensure consistency and accuracy.
 
+![](<../images/Screenshot 2025-01-14 at 14.19.08.png>){ width=350px }
+
+---
+
+# Implementation steps
+
 4. Connect to Neo4j Aura (console) using the Neo4j library.
+
+![](<../images/Screenshot 2025-01-14 at 14.32.02.png>){ width=350px }
+
+---
+
+# Implementation steps
 
 5. Use Cypher queries to establish relationships between the nodes.
 
+![](<../images/Screenshot 2025-01-14 at 14.20.18.png>){ width=350px }
+
+---
+
+# Implementation steps
+
 6. Upload the processed data into the Neo4j database.
+
+![](<../images/Screenshot 2025-01-14 at 14.20.56.png>){ width=350px }
 
 ---
 
